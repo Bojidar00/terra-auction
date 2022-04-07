@@ -1,0 +1,1 @@
+3cd8cd0d685b06eb3620154bf0228506b8b916d2830e8fbb44e48d318020bb0a  ./target/wasm32-unknown-unknown/release/auction.wasm

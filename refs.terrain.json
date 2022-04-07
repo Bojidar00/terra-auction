@@ -1,0 +1,10 @@
+{
+  "testnet": {
+    "auction": {
+      "codeId": "60723",
+      "contractAddresses": {
+        "default": "terra13tfucp2z4h33cwxkns8mu3k4keptdyst48ujxp"
+      }
+    }
+  }
+}
